@@ -121,7 +121,7 @@ class GeneratorPage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(
-            'Febrianti Mayori',
+            'Diva Aji Kurniawan',
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.bold,
@@ -129,7 +129,7 @@ class GeneratorPage extends StatelessWidget {
             ),
           ),
           Text(
-            '2241720248',
+            '2241720183',
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.bold,
